@@ -2,5 +2,5 @@
   "name": "ota-update-test",
   "description": "A package using naive versioning",
   "author": "heartnetkung <heartnetkung@gmail.com>",
-  "version": "1.0.0"
+  "version": "1.0.1"
 }

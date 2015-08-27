@@ -2,5 +2,8 @@
   "name": "ota-update-test",
   "description": "A package using naive versioning",
   "author": "heartnetkung <heartnetkung@gmail.com>",
-  "version": "1.0.1"
+  "version": "1.0.1",
+  "dependencies": {
+    "express": "^4.0.0"
+  }
 }
